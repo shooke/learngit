@@ -1,4 +1,3 @@
-update shop_ticketo1on-42svWZ7Szmz_K66UHu4mebo' where openid='oEBI803xFln7oUvHoqvB5vbaTw7I
 o1on-423jZJ-dRQ-xW796k9tlk2w' where openid='oEBI8072Gt0q0D6JqffLRafJy2eE
 o1on-4yTwgK9Z98gYstusIt2pUhs' where openid='oEBI804G1JKBdqESOqSfsja-D9BQ
 o1on-4y3DTgU-CED_S-oZj5Mk9aI' where openid='oEBI80whHEqNf_OX8QM0nAjWlRX4
